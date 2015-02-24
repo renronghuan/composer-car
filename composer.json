@@ -1,7 +1,7 @@
 {
-    "name": "renronghuan/test",
+    "name": "renronghuan/composer-car",
     "type": "library",
-    "description": "test for composer",
+    "description": "In order to study composer",
     "autoload": {
         "psr-4": {
             "Ford\\Escape\\": "src/Ford/Escape",
