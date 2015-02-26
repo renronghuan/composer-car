@@ -7,7 +7,7 @@
             "Ford\\": "src"           
         },
 	"psr-4": {
-            "Bmw\\": "src/Foo"           
+            "Bmw\\": "src"           
         }
     }   
    
