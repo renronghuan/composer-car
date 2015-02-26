@@ -4,10 +4,7 @@
     "description": "In order to study composer",
     "autoload": {
         "psr-4": {
-            "Ford\\Escape\\": "src/Ford/Escape",
-            "Ford\\Fusion\\": "src/Ford/Fusion",
-            "Ford\\Focus\\": "src/Ford/Focus",
-            "Ford\\Fiesta\\": "src/Ford/Fiesta"
+            "Ford\\": "src/Ford"           
         }
     }   
    
