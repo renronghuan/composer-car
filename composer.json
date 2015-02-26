@@ -9,7 +9,7 @@
 	"psr-4": {
             "Bmw\\": "src"           
         },
-	"classmap": ["classmap"]
+	"classmap": ["src/classmap"]
     }   
    
 }
