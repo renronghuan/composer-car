@@ -4,8 +4,11 @@
     "description": "In order to study composer",
     "autoload": {
         "psr-0": {
-            "Ford\\": "src/Ford"           
-        }
+            "Ford\\": "src"           
+        },
+	"psr-4": {
+            "Bmw\\": "src/Foo"           
+        },
     }   
    
 }
