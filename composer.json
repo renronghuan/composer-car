@@ -13,6 +13,10 @@
             "Bmw\\": "src"           
         },
 	"classmap": ["src/classmap"]
-    }
+    },
+    "repositories": [
+         {"type": "composer", "url": "http://cp01-vs-vsc-rd01.cp01:8778"},
+         {"packagist": false}
+    ]
    
 }
