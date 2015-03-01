@@ -2,6 +2,9 @@
     "name": "renronghuan/composer-car",
     "type": "library",
     "description": "In order to study composer",
+    "require": {
+             "renronghuan/composer-test": "dev-master"
+    },
     "autoload": {
         "psr-0": {
             "Ford\\": "src"           
@@ -10,6 +13,6 @@
             "Bmw\\": "src"           
         },
 	"classmap": ["src/classmap"]
-    }   
+    }
    
 }
