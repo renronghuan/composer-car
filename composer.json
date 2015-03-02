@@ -2,7 +2,7 @@
     "name": "renronghuan/composer-car",
     "type": "library",
     "description": "In order to study composer",
-    "require-dev": {
+    "require": {
              "renronghuan/composer-test": "1.0.0.*@dev"
     },
     "autoload": {
