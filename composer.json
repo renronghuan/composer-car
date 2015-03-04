@@ -3,7 +3,7 @@
     "type": "library",
     "description": "In order to study composer",
     "require": {
-             "renronghuan/composer-test": "1.0.5"
+             "renronghuan/composer-test": "dev-master"
     },
     "autoload": {
         "psr-0": {
